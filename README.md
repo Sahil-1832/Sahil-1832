@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  ABOUT ME📝:
 🔭 I’m currently working on<br>Fine-tuning large language models (LLMs) and AI model development as a Jr. Data Engineer Trainee at 64 Squares LLC.<br><br>👯 I’m looking to collaborate on<br>Full-stack web and mobile app development, data engineering projects, and AI/ML innovations.<br><br>🤝 I’m looking for help with<br>Exploring advanced techniques in generative AI, optimizing LLM training, and contributing to open-source projects.<br><br>🌱 I’m currently learning<br>Cutting-edge generative AI concepts, TypeScript, and advanced backend development with Next.js and Firebase.<br><br>💬 Ask me about<br>Data Structures, Algorithms, Next.js, Firebase, and how I solved 350+ problems on LeetCode and earned Rank 1 on GeeksforGeeks at CUHP.<br><br>⚡ Fun fact<br>I maintained a 100-day streak on GeeksforGeeks and earned exclusive goodies!
 
 
